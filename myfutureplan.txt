@@ -1,0 +1,134 @@
+6 Conversations You Need To Have With Yourself --
+1.What you love the most?
+2.What you are willing to sacrifice for your goals.
+3.What you can do to help for the poor
+4.What you will do if you have lots of money
+5.What are your Interests and Hobbies
+
+Set Goals to Learn English by yourself
+Make an english study plan
+Enagage yourself fully in English
+Start with children's books,movies
+Listen to Anything and Everything in English
+Learn with English Music
+Watch YouTube,TV shows and Movies
+Practice Speaking in English
+Measure Your English Progress
+Stay Motivated
+
+Learning Path
+Time box
+customercare@sbicard.com
+
+Financial :
+Credit card dues & EMI:
+SBI
+HDFC
+ICICI
+KOTAK
+
+Home Loan EMI :24000
+Gold Loan Due :250000
+
+Amount borrowed :
+Rasheed - 150000 / Interest - 3000
+
+OTT & Mobile bill expenditures :
+
+House expenditures:
+Current Bill - 900
+Gas Bill - 1000
+Groceries - 3000
+Vegitables,Fruites & Other - 3500
+Snacks - 2500
+
+Children expenditures:
+School Fee -(tution fee - 57000,Books - 7100) 
+Tution Fee - 1800
+Auto charges - 3000
+
+Personal expenditures:
+Petrol - 1000
+Tiffin - 600
+Coffee - 800 
+Parties - 
+Other -
+
+Carrer :
+My current technical skills ,Job Role and Responsibilities:
+Technical Skills:
+HTML & CSS
+Javascript & ES6
+JQuery and Ajax
+Angularjs
+PHP & MYSQL
+
+Third Party Plugins:
+Zoom & Google Meetings
+AWS Rekognition,SNS,SQS,PUSH Notifications,SMS
+Google maps,translator
+FFMPEG - Video converter
+Javascript take snapshot,video and fullscreen mode
+Whatsapp notifications
+SMS gateway hub
+
+Payment Gateways:
+PayTM,PayUmoney,Razorpay and CCAvenue
+
+Developed hybrid app using Ionic,Angular and Cordova
+Video calling and Realtime chat application using NodeJS and Socket
+
+Moderately known:
+Typescript
+Angular
+NodeJS
+
+Partially known:
+Python
+Java
+Android
+Mongodb
+
+Short Goals:
+
+Long Goals:
+
+
+https://gisb.etutor.co/student-fees-details-253
+https://gisb.etutor.co/student-fees-details-new-253
+RewriteRule ^doccavrequest?$ ccavRequestHandler.php [NC,L]
+RewriteRule ^responseccav?$ ccavResponseHandler.php [NC,L]
+https://gisb.etutor.co/responseccav
+
+self discipline
+clear vision (Goal)
+Planing & Execusion
+Concentraion and Self Confidence
+Findout Weekness
+Controller my emotions & temptation
+
+
+
+Habits of Efficient Developers
+1. Focus
+a. disable notifications
+b. pair program
+c. rest
+d. one thing at a time
+
+2. Master your IDE
+a. Functionality 
+b. Shortcuts
+c. Pair Program
+
+3. No menial work
+a. Write programs
+b. Avoid GUIs
+c. Automate testing
+d. repeatable dev env - Docker
+
+4. Fast Feedback
+a. TDD
+b. REPL
+c. Pair program
+
